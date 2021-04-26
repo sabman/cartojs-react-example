@@ -4,7 +4,7 @@
   "version": "0.0.45",
   "dependencies": {
     "carto.js": "4.0.0-beta.4",
-    "leaflet": "1.2.0",
+    "leaflet": "1.7.1",
     "prop-types": "15.6.0",
     "react": "16.2.0",
     "react-dom": "16.0.0",
